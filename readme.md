@@ -5,8 +5,8 @@ start server
 
 `` type: module  ``
 
-    [bilona1/cuddly-lamp#82](https://github.com/bilona1/cuddly-lamp/issues/82)Frontend
-bundler : vite
+    # Frontend
+`` bundler : vite ``
 
 Use Axios for API
     Axios is a popular JavaScript library used to make HTTP requests from your code (like getting data from an API or sending data to a server). It works in both browsers and Node.js.
