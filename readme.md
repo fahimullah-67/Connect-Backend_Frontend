@@ -1,24 +1,24 @@
-    ##start server
+    #start server
 
-``js``
+js``
 
     npm start
 
-````
+``
 
-``js``
+js``
 
     type: module  
 
-````
+``
 
-    ##Frontend
+    #Frontend
 
-``js``
+js``
 
     bundler : vite 
  
- ````
+ ``
 
 Use Axios for API
     Axios is a popular JavaScript library used to make HTTP requests from your code (like getting data from an API or sending data to a server). It works in both browsers and Node.js.
